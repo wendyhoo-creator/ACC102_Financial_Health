@@ -1,0 +1,6 @@
+streamlit
+pandas
+numpy
+plotly
+wrds
+sqlalchemy<2.0
