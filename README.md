@@ -53,7 +53,7 @@ Supports Apple, Microsoft, Alphabet (Google) by default, and any other company v
 ## Product Links
 
 - **GitHub Repository**: [https://github.com/wendyhoo-creator/ACC102_Financial_Health](https://github.com/wendyhoo-creator/ACC102_Financial_Health)
-- **Demo Video**: [Mediasite link to be added]
+- **Demo Video**: [https://b23.tv/PJzPeu6]
   
 ## Limitations
 
