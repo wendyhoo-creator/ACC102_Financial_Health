@@ -44,7 +44,8 @@ Supports Apple, Microsoft, Alphabet (Google) by default, and any other company v
    ```
 3. **Ensure you have a WRDS account** (XJTLU students and staff can apply via the library).
 4. **Place industry_benchmarks.csv** in the root folder (already included).
-5. **Run the Streamlit app**
+   > **Note**: The file `industry_benchmarks.csv` must be placed in the same directory as this notebook (the project root) for the analysis to run correctly.
+6. **Run the Streamlit app**
    ```bash
    streamlit run app.py
    ```
